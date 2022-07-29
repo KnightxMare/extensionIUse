@@ -1,6 +1,6 @@
 <h1 align="center">ExtensionIUse</h1>
 
-# 💻 ExtensionIUse
+# 💻 Browser
 
 List of browsers extensions I use.
 
