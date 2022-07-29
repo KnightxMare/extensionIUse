@@ -6,7 +6,7 @@ List of browsers extensions I use.
 
 Feel free to contribute
 
-**1.Dark Reader**
+**1.Dark Reader**<img title="Dark Reader" src="https://lh3.googleusercontent.com/T66wTLk-gpBBGsMm0SDJJ3VaI8YM0Utr8NaGCSANmXOfb84K-9GmyXORLKoslfxtasKtQ4spDCdq_zlp_t3QQ6SI0A=w128-h128-e365-rj-sc0x00ffffff">
 </br>Toggleable dark mode for the browser.
 </br>https://darkreader.org
 
