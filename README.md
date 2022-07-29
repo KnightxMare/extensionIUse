@@ -7,7 +7,7 @@ List of browsers extensions I use.
 Feel free to contribute
 
 1.Dark Reader
-Toggleable dark mode for the browser.
+</br>Toggleable dark mode for the browser.
 https://darkreader.org
 
 2.Bitwarden
