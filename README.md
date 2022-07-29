@@ -8,7 +8,7 @@ Feel free to contribute
 
 1.Dark Reader
 </br>Toggleable dark mode for the browser.
-https://darkreader.org
+</br>https://darkreader.org
 
 2.Bitwarden
 One the best password manager for the web.
